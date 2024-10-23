@@ -1,6 +1,6 @@
 imgwidth=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Araujo;I'm+21+years+old;I+from+Brasil,+SP;I+Intern+at+Itaú-Unibanco;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Araujo;I'm+21+years+old;I+from+Brazil,+SP;I+Intern+at+Itaú-Unibanco;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Araujopedro&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Araujo github stats" /> 
@@ -16,7 +16,6 @@ imgwidth=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfb
 
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 ![Kotlin](https://img.shields.io/badge/-kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=&labelColor=0D1117)&nbsp; 
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
